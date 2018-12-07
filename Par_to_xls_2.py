@@ -7,16 +7,14 @@ Created on Mon Dec  3 14:23:31 2018
 
 import time
 start_time = time.time()
-import numpy as np
-import matplotlib.pylab as plt
 import pandas as pd
 import os
 
 
 
 
-#path = '/home/paulo/Dropbox/Doutorado/Resultados/PL/Dados_elipso/'
-path = "C:/Users/Paulo/Documents/MEGA/program/create_xls/Par/"
+
+path = #Data directory
 
 
 pathTab = path + '/data_xls/'
