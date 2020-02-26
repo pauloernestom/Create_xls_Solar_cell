@@ -131,7 +131,7 @@ def save_xls(pathTab, dataFrame, fileName):
     writer.save()
 
 
-path = "C:/Users/p1448/Documents/MEGA/Doutorado/Resultados/Resultados/Perovskite_JV/estabilidade/25-Feb-2020/PSVK-estabilidade/Par/"
+path = ""
 
 
 pathTab = createDir(path, 'data_xls')
